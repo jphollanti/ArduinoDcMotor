@@ -1,7 +1,7 @@
 #include "Arduino.h"
 #include "ArduinoDcMotor.h"
 
-ArdunioDcMotor::ArduinoDcMotor(int pin1, int pin2) {
+ArduinoDcMotor::ArduinoDcMotor(int pin1, int pin2) {
   this->pin1 = pin1;
   this->pin2 = pin2;
   analogWrite(pin2, 0);
