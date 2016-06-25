@@ -1,6 +1,6 @@
 {
     "name": "ArduinoDcMotor",
-    "keywords": "dc-motor",
+    "keywords": "dcmotor",
     "description": "DC motor",
     "repository":
     {
