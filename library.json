@@ -8,5 +8,5 @@
         "url": "https://github.com/jphollanti/ArduinoDcMotor.git"
     },
     "frameworks": "arduino",
-    "platforms": "atmelsam"
+    "platforms": "due"
 }
