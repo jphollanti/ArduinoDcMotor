@@ -1,0 +1,12 @@
+{
+    "name": "ArduinoDcMotor",
+    "keywords": "dc-motor",
+    "description": "DC motor",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/jphollanti/ArduinoDcMotor.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelsam"
+}
